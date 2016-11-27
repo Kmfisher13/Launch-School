@@ -1,0 +1,2 @@
+The code does not print any thing to the screen.
+Because of the explicit return on line three, there is no output.
