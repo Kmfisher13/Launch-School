@@ -11,7 +11,7 @@ answer = case
 when (number < 0)
   "You dirty cheater!"
 when (number <= 50)
-  "Your numer is between 0 and 50"
+  "Your number is between 0 and 50"
 when (number > 50) && (number <= 100)
   "Your number is between 51 and 100"
 else
