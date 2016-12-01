@@ -7,7 +7,7 @@ while answer != "STOP"
   print "Poke! "
   answer = gets.chomp
   if answer == "MOM"
-    puts "You're BOTH grounded!!"
+    puts "Stop it or you're BOTH grounded!!"
   elsif answer == "DAD"
     puts "Don't MAKE me turn this car around!!"
   end

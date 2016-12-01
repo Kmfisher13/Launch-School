@@ -1,7 +1,7 @@
 # recursion.rb Count down from a given number using recursion
 
 def countdown(number)
-  if number <= 0
+  if number < 1
     puts "Done!"
   else
     print "#{number}"
