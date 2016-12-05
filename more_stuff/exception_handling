@@ -1,0 +1,4 @@
+Exception handling is a way to deal with errors in a managable and predictable way.
+
+It allows a program to deal with an error, that would otherwise cause
+the program to shut down, by altering the flow control.

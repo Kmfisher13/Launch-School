@@ -1,0 +1,5 @@
+# seven
+# What is the major difference between an Array and a Hash?
+
+An Array has a defined order based on numerical indexing. A Hash has
+no defined order as all indexing is based on key:value pair relationship.

@@ -1,0 +1,4 @@
+This program out puts "These hashes are the same!"
+
+Both hashes contain a mix of both hash syntax styles. All the keys and values
+maintain the same types in both hashes and will return a true value when compared.
